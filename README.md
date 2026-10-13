@@ -68,8 +68,8 @@ glassmorphism/                  # project root (contains manage.py)
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/Maxwel12744/glassmorphism-login.git
-   cd glassmorphism-login
+   git clone https://github.com/Maxwel12744/glassmorphism_login.git
+   cd glassmorphism_login
 ```
 
 2. (Recommended) Create and activate a virtual environment:
